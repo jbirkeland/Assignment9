@@ -3,7 +3,7 @@ new Vue({
     data: {
         family: "Llamas are part of the camelid family",
         group: "A group of llamas is called a herd",
-        height: "They can grow to be 6 feet tall",
+        height: true,
         weight: "They weigh between 280 and 450 pounds",
         training: "They are smart and easy to train",
         diet: "Llamas are vegetarian",
