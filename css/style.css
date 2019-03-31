@@ -1,4 +1,12 @@
 body {
-    margin: auto;
+    margin: 2em;
+    padding: 1em;
+    width: 600px;
     text-align: center;
+    border: 1px solid black;
+}
+
+#llamaFacts {
+    list-style-position: inside;
+    line-height: 2em;
 }
